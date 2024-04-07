@@ -21,7 +21,7 @@ setup(
     name='health-prognostics-model',
     description="A machine learning system for disease prediction and therapeutic recommendations",
     version='0.0.1',
-    author='Aldi',
+    author='Rizki Aldiansyah',
     author_email='rzzkalldi@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
